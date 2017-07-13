@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Programmer Philosopher</title>
+    <link>https://avraamisvi.github.io./post/</link>
+    <description>Recent content in Posts on The Programmer Philosopher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
+    <lastBuildDate>Thu, 06 Jul 2017 17:17:26 -0300</lastBuildDate>
+    
+	<atom:link href="https://avraamisvi.github.io./post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is really software development?</title>
+      <link>https://avraamisvi.github.io./2017/07/06/what-is-really-software-development/</link>
+      <pubDate>Thu, 06 Jul 2017 17:17:26 -0300</pubDate>
+      
+      <guid>https://avraamisvi.github.io./2017/07/06/what-is-really-software-development/</guid>
+      <description>Do we really know it? At first hand, the question in title of this post could look like as a sily one, after all, this is a very well defined thing, right? Yeah, my question could be somehow sily, but I am inclined to believe it really touching in something.
+During all my years as a developer I was presented to many kinds of frameworks, methodologies, paradigms and strategies to develop software, as TDD, BDD, Agile, RAD, DDD, XP and many others, all of them being, in some sense, promoted as a better way or tool to make software.</description>
+    </item>
+    
+  </channel>
+</rss>

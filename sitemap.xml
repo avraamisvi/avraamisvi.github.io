@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://avraamisvi.github.io./2017/07/06/what-is-really-software-development/</loc>
+    <lastmod>2017-07-06T17:17:26-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://avraamisvi.github.io./about/</loc>
+    <lastmod>2017-05-19T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://avraamisvi.github.io./categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://avraamisvi.github.io./categories/general/</loc>
+    <lastmod>2017-07-06T17:17:26-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://avraamisvi.github.io./post/</loc>
+    <lastmod>2017-07-06T17:17:26-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://avraamisvi.github.io./tags/software-development/</loc>
+    <lastmod>2017-07-06T17:17:26-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://avraamisvi.github.io./tags/</loc>
+    <lastmod>2017-07-06T17:17:26-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://avraamisvi.github.io./</loc>
+    <lastmod>2017-07-06T17:17:26-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
